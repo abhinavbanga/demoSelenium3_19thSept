@@ -1,0 +1,9 @@
+<suite name="myFirstTestSuite">
+<test name="myFirstTest">
+<classes>
+<class name="com.Day1.TestNG.basicAnnotations"/>
+<class name="com.Day1.TestNG.project2"/>
+<class name="com.Day1.TestNG.DataDrivenExample"/>
+</classes>
+</test>
+</suite>
